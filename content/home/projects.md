@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Computer Graphics
+    tag:  Computer Graphics
   - name: Other
-    tag: Demo, Computer Graphics
+    tag: Computer Graphics
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
