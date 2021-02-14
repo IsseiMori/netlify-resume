@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 90
 
 title: Experience
 subtitle:
@@ -27,19 +27,12 @@ experience:
     location: California
     date_start: '2020-08-01'
     date_end: ''
-    description: |1-
-        * Developed an open-source software to depict gender gap in the news media by measuring female representation in news articles using deep learning models, in collaboration with other media from the world.
-        * Used an open-source dataset of human faces to train our detection model.
-        * Extracted names and identified their gender in our articles for the past 11 years, using NLP models and Wikipedia API.
-        
+    description:
   - title: Backend Software Engineering Intern
     company: Infinite Options
     company_url: ''
     location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: |1-
-        * Deployed a system to manage donations, orders, and delivery for the local foodbanks.
-        * Designed and set up an RDS database and APIs using Flask, AWS lambda, gateway
-        * https://servingfresh.me/
+    date_start: '2020-04-01'
+    date_end: '2020-08-01'
+    description: 
 ---

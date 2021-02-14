@@ -64,6 +64,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a forth-year B.S. Computer Science student in CSE department at UCSC. My research interests include computer graphics and computer vision, with a particular focus on volumetric rendering. 
+I am a forth-year B.S. Computer Science student in CSE department at UCSC. My research interests include computer graphics and computer vision, with a particular focus on computational photography. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

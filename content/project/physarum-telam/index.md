@@ -1,16 +1,14 @@
 ---
-title: Example Project2
-summary: An example of using the in-built project page.
+title: Physarum Telam
+summary: An interactive 3D visualization of cosmological data, rendered as a photo-realistic translucent yellow blob mimicking the appearance of Slime Mold using physically-based volumetric path tracing.
 tags:
-- Deep Learning
+- Computer Graphics
+- Featured
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "http://isseim.com/physarum-telam/sm"
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
 
 ---
 
