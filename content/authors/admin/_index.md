@@ -25,13 +25,15 @@ social:
     icon_pack: ai
     link: media/resume.pdf
 organizations:
-  - name: University of California, Santa Cruz
-    url: https://www.stanford.edu/
+  - name: University of California, San Diego
 education:
   courses:
-    - course: BS in Computer Science
+    - course: B.S. in Computer Science
       institution: University of California, Santa Cruz
       year: 2017-2021
+    - course: M.S. in Computer Science and Engineering
+      institution: University of California, San Diego
+      year: ""
 email: ""
 superuser: true
 highlight_name: false
