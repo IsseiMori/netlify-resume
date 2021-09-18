@@ -1,7 +1,7 @@
 ---
 title: Issei Mori
 role: Software Engineer
-avatar_filename: untitled.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
