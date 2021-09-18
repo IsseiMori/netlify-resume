@@ -28,12 +28,12 @@ organizations:
   - name: University of California, San Diego
 education:
   courses:
-    - course: B.S. in Computer Science
-      institution: University of California, Santa Cruz
-      year: 2017-2021
     - course: M.S. in Computer Science and Engineering
       institution: University of California, San Diego
       year: ""
+    - course: B.S. in Computer Science
+      institution: University of California, Santa Cruz
+      year: 2017-2021
 email: ""
 superuser: true
 highlight_name: false
