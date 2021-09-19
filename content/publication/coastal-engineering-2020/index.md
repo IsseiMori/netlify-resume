@@ -15,7 +15,7 @@ abstract: This paper presents a machine learning approach for the automatic
   both humans and other methods of rip current detection previously reported in
   the literature.
 url_pdf: https://arxiv.org/pdf/2102.02902.pdf
-title: Automated rip current detection with region based convolutional neural networks
+title: 'Automated rip current detection with region based convolutional neural networks'
 publication_types:
   - "2"
 authors:

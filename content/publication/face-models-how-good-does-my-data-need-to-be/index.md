@@ -1,5 +1,5 @@
 ---
-title: "Face Models: How Good Does My Data Need To Be?"
+title: "[ICIP 2021] Face Models: How Good Does My Data Need To Be?"
 subtitle: ""
 external_link: 'https://ieeexplore.ieee.org/abstract/document/9506668'
 publication_types:
@@ -23,6 +23,8 @@ abstract: Face models are widely used in image processing and other domains. The
   constructed from an existing high quality dataset. A morphable face model is
   then used to reconstruct 3D faces. By comparing to ground truth, an analysis
   of the relative error between different data types is obtained.
+summary: 'We have quantified and analyzed the base-line reconstruction accuracy of a face model as a function of source
+data type commonly used in the domain.'
 draft: false
 featured: false
 url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9506668'

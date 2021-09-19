@@ -24,15 +24,21 @@ date_format: Jan 2006
 experience:
   - title: Software Engineer Intern
     company: NIKKEI America Inc.
-    location: California
+    location: Cupertino
     date_start: '2020-08-01'
     date_end: ''
-    description:
+    description: 
   - title: Backend Software Engineering Intern
     company: Infinite Options
     company_url: ''
     location: California
     date_start: '2020-04-01'
     date_end: '2020-08-01'
-    description: 
+    description:
+  - title: Undergraduate Research Assistant
+    company: University of California, Santa Cruz
+    location: Santa Cruz
+    date_start: '2018-04-01'
+    date_end: '2021-06-01'
+    description:
 ---
