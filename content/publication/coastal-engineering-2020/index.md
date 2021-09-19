@@ -26,11 +26,7 @@ authors:
   - Alex Pang
 summary: This paper presents a machine learning approach for the automatic
   identification of rip currents with breaking waves.
-url_dataset: ""
-url_project: https://www.sciencedirect.com/science/article/abs/pii/S0378383921000193
 publication_short: In *AGU*
-url_source: ""
-url_video: ""
 doi: ""
 publication: In *Coastal Engineering*
 featured: true

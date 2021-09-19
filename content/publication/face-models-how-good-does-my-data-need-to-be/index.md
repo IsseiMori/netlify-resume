@@ -24,6 +24,7 @@ abstract: Face models are widely used in image processing and other domains. The
   of the relative error between different data types is obtained.
 draft: false
 featured: false
+url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9506668'
 image:
   filename: featured.jpg
   focal_point: Smart

@@ -49,13 +49,6 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://nrc.noaa.gov/LinkClick.aspx?fileticket=jLq7s0Hw1_g%3D&tabid=67&portalid=0'
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: 'https://agu.confex.com/agu/osm20/meetingapp.cgi/Paper/643309'
-url_slides: ''
-url_source: ''
-url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
