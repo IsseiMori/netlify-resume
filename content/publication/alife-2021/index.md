@@ -47,7 +47,7 @@ url_pdf:
 url_code: https://github.com/IsseiMori/threejs_polyphorm
 url_dataset:
 url_poster:
-url_project: http://isseim.com/physarum-telam/
+url_project: http://isseim.com.s3-website-us-west-1.amazonaws.com/physarum-telam/
 url_slides:
 url_source:
 url_video: https://www.youtube.com/watch?v=5Dm5pVsEe-A
