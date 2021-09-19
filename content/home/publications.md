@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: portfolio
 
 # This file represents a page section.
 headless: true
@@ -11,6 +11,7 @@ weight: 70
 
 title: Recent Publications
 subtitle: ''
+
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -22,6 +23,15 @@ content:
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
   # Filter on criteria
+  
+  filter_button:
+  - name: All
+    tag: '*'
+  - name: Computer Graphics
+    tag:  Computer Graphics
+  - name: Computer Vision
+    tag: Computer Vision
+
   filters:
     tag: ''
     category: ''

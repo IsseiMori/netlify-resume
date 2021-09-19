@@ -15,6 +15,7 @@ abstract: This paper presents a machine learning approach for the automatic
   both humans and other methods of rip current detection previously reported in
   the literature.
 url_pdf: https://arxiv.org/pdf/2102.02902.pdf
+external_link: https://www.sciencedirect.com/science/article/abs/pii/S0378383921000193
 title: 'Automated rip current detection with region based convolutional neural networks'
 publication_types:
   - "2"
@@ -30,7 +31,7 @@ publication_short: In *AGU*
 doi: ""
 publication: In *Coastal Engineering*
 featured: true
-tags: []
+tags: ['Computer Vision']
 date: 2021-02-08T00:00:00Z
 url_slides: ""
 url_poster: ""

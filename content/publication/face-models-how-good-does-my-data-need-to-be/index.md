@@ -25,6 +25,7 @@ abstract: Face models are widely used in image processing and other domains. The
   of the relative error between different data types is obtained.
 summary: 'We have quantified and analyzed the base-line reconstruction accuracy of a face model as a function of source
 data type commonly used in the domain.'
+tags: ['Computer Vision']
 draft: false
 featured: false
 url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9506668'

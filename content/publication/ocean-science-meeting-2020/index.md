@@ -12,6 +12,8 @@ authors:
 - Akila de Silva
 - Issei Mori
 
+external_link: https://agu.confex.com/agu/osm20/meetingapp.cgi/Paper/643309
+
 # Author notes (optional)
 #author_notes:
 #- "Equal contribution"
@@ -38,7 +40,7 @@ abstract: Observing rip currents can be extremely challenging. The energetic and
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: []
+tags: ['Computer Vision']
 
 # Display this page in the Featured widget?
 featured: true

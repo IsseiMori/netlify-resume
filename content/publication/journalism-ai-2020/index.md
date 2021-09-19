@@ -1,20 +1,26 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "[ALIFE 2021] Physarum Telam"
+title: "How might we leverage AI to understand, identify and mitigate newsroom biases?"
 authors: []
-date: 2021-07-13T02:27:41-07:00
+date: 2020-12-08T02:42:22-07:00
 doi: ""
-external_link: https://www.youtube.com/watch?v=5Dm5pVsEe-A
+external_link: https://www.journalismaifestival.com/programme/how-might-we-leverage-ai-to-understand-identify-and-mitigate-newsroom-biases
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-09-19T02:27:41-07:00
+publishDate: 2021-09-19T02:42:22-07:00
 
 authors:
+- Delfina Arambillet
+- Agnes Stenbom
+- Yosuke Suzuki
+- Aurore Malval
+- Michaëla Cancela Kieffer
+- Florencia Coelho
+- Jane Barrett
 - Issei Mori
-- Oskar Elek
-- Joseph N. Burchett
-- Angus Forbes
+- Ruth Kuehn
+- Paul Gallagher
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,15 +29,15 @@ authors:
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Artificial Life 2021"
-publication_short: "ALIFE 2021"
+publication: ""
+publication_short: ""
 
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "Best Art Award at ALIFE 2021. Designed an interactive 3D visualization of cosmological data, rendered with Slime Mold material using a physically-based volumetric path tracer."
+summary: "Speaker at Journalism AI Festival 2020. We have developed a system to identify female representation in news article images in an International journalism team."
 
-tags: ['Computer Graphics']
+tags: ['Computer Vision']
 categories: []
 featured: false
 
@@ -44,13 +50,13 @@ featured: false
 #   icon: twitter
 
 url_pdf:
-url_code: https://github.com/IsseiMori/threejs_polyphorm
+url_code:
 url_dataset:
 url_poster:
-url_project: http://isseim.com/physarum-telam/
-url_slides:
+url_project: 
+url_slides: 
 url_source:
-url_video: https://www.youtube.com/watch?v=5Dm5pVsEe-A
+url_video: content/publication/alife-2021/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
