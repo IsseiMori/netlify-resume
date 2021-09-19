@@ -1,6 +1,7 @@
 ---
 title: "Face Models: How Good Does My Data Need To Be?"
 subtitle: ""
+external_link: 'https://ieeexplore.ieee.org/abstract/document/9506668'
 publication_types:
   - "1"
 authors:
