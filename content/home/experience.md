@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 40
 
 title: Experience
 subtitle:
@@ -22,12 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Software Development Engineer Internship
+    company: Amazon
+    location: San Diego
+    date_start: '2022-06-27'
+    date_end: '2022-09-16'
+    description: ・Developed and deployed an investigation tool to prevent fraudulent returns and refunds by malicious users, aggregating useful data and statistics across the system. ・Designed the interface and data structure from the backend API calls in Java to the frontend UI, applying the design patterns to make the tool easily scalable and customizable.
   - title: Software Engineer Intern
     company: NIKKEI America Inc.
     location: Cupertino
     date_start: '2020-08-01'
-    date_end: ''
-    description: 
+    date_end: '2022-06-22'
+    description: Deployed a topic recommendation system based on users’ interests using big data and neural networks, achieving almost x2 CTR.
   - title: Backend Software Engineering Intern
     company: Infinite Options
     company_url: ''
@@ -40,5 +46,5 @@ experience:
     location: Santa Cruz
     date_start: '2018-04-01'
     date_end: '2021-06-01'
-    description:
+    description: Researched and implemented a tool to detect rip currents from videos using C++ OpenCV, achieving the highest accuracy on challenging cases.
 ---

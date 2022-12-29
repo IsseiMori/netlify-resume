@@ -30,7 +30,7 @@ education:
   courses:
     - course: M.S. in Computer Science and Engineering
       institution: University of California, San Diego
-      year: ""
+      year: September 2021 - June 2023
     - course: B.S. in Computer Science
       institution: University of California, Santa Cruz
       year: 2017-2021
@@ -38,6 +38,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a first-year M.S. Computer Science student in at UCSD. My research interests include computer graphics and computer vision, with a particular focus on computational photography.
+I am a second-year M.S. Computer Science student at UCSD, currently seeking a entry-level Software Engineer Role. My research interests include computer graphics and computer vision, with a particular focus on computational photography.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

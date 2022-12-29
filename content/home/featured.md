@@ -12,6 +12,9 @@ weight: 60
 title: Featured
 subtitle: ""
 
+# hide this widget
+active: false
+
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: project
